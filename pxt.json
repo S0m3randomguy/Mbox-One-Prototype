@@ -4,7 +4,11 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "controller": "*"
+        "controller": "*",
+        "radio-broadcast": "*",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0",
+        "animation": "*"
     },
     "files": [
         "README.md",
